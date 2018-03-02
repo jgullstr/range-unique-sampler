@@ -1,5 +1,5 @@
 {
-  "name": "integer-unique-sampler",
+  "name": "range-unique-sampler",
   "version": "1.0.0",
   "description": "Sample random unique integers within a range.",
   "author": "Josef Gullström",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/jgullstr/integer-unique-sampler.git"
+    "url": "git+ssh://git@github.com/jgullstr/range-unique-sampler.git"
   },
   "bugs": {
-    "url": "https://github.com/jgullstr/integer-unique-sampler/issues"
+    "url": "https://github.com/jgullstr/range-unique-sampler/issues"
   },
-  "homepage": "https://github.com/jgullstr/integer-unique-sampler#readme",
+  "homepage": "https://github.com/jgullstr/range-unique-sampler#readme",
   "devDependencies": {
     "ava": "^0.25.0",
     "babel-core": "^6.26.0",

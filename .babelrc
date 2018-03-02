@@ -1,4 +1,4 @@
 {
-    "moduleId": "array-unique-sampler",
+    "moduleId": "range-unique-sampler",
     "presets": ["env"]
 }

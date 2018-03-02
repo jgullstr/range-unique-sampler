@@ -1,11 +1,11 @@
-# integer-unique-sampler [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jgullstr/array-integer-sampler/blob/master/LICENSE)
+# range-unique-sampler [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jgullstr/range-unique-sampler/blob/master/LICENSE)
 
 Sample random unique integers within a range.
 
 ## Usage
 
 ```js
-import uniqueSampler from 'integer-unique-sampler';
+import uniqueSampler from 'range-unique-sampler';
 
 // Sample integers in range 100 (inclusive) - 500 (exclusive).
 const sample = uniqueSampler(100,500);
